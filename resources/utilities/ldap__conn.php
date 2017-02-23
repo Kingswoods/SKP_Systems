@@ -2,8 +2,8 @@
 
 //Ldap database variables
 $ldapserver = 'AD-SERVER';
-$ldapuser = 'itskpodense\mich091k';
-$ldappass = 'Bibi1ana';
+$ldapuser = 'itskpodense\skpff';
+$ldappass = 'SKPsystems17';
 $ldaptree = 'OU=SKPUsers,DC=ITSKPODENSE,DC=LOCAL';
 
 ?>
